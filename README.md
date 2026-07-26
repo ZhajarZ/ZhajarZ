@@ -2,7 +2,9 @@
 
 <h3 align="center">💻 Junior Full Stack Developer | Software Developer</h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Student;Junior+Full+Stack+Developer;Flutter+Developer;React+%7C+Node.js+%7C+Django;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 
 
